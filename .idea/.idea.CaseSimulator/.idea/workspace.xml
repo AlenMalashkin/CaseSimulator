@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="3c8bad2e-2741-47be-8633-86c62b1a27af" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Bank/Bank.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/ChangeSceneButton.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Items/RouleteElement.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Roulete/RouletePanel.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Items/CaseElement.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Items/InventoryElement.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Bank/ViewCurrency.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Library/PackageCache/com.unity.collab-proxy@1.17.2/Editor/PlasticSCM/PlasticWindow.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/SceneLoader.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Cases/Case.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Cases/CasesFiller.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Resources/Chests/Chest.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Inventory/ViewCollectedItemsCount.cs" root0="FORCE_HIGHLIGHTING" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/Assets/Scripts/RouleteTrigger.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Item.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Roulete.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Roulete/Item.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Roulete/RouleteElement.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Inventory/InventoryElement.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Items/ItemInfo.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Items/Item.cs" />
+        <option value="$PROJECT_DIR$/Assets/Resources/Item.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Items/RouleteElement.cs" />
+        <option value="$PROJECT_DIR$/Assets/Resources/Items/Item.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Items/CaseElement.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Roulete/RouletePanel.cs" />
+        <option value="$PROJECT_DIR$/Assets/Resources/Chests/Chest.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Cases/Case.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/SceneLoader.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/MneuButton.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/ChangeSceneButton.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Cases/CasesFiller.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Bank/ViewCurrency.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Bank/Bank.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Inventory/InventorySlots.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Inventory/InventoryFiller.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Items/InventoryElement.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Inventory/ViewCollectedItemsCount.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Roulete/Roulete.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Roulete/DropPanel.cs" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="2KaWOKmBrxYBgkVReF7EGAeZBat" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="Discover.Launch.Via.Unity" value="true" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="settings.editor.selected.configurable" value="preferences.editor.code.editing" />
+  </component>
+  <component name="RunManager" selected="Attach to Unity Editor.Attach to Unity Editor">
+    <configuration name="Attach to Unity Editor &amp; Play" type="UNITY_DEBUG_RUN_CONFIGURATION" factoryName="UNITY_ATTACH_AND_PLAY" show_console_on_std_err="false" show_console_on_std_out="false" port="50000" address="localhost">
+      <option name="allowRunningInParallel" value="false" />
+      <option name="listenPortForConnections" value="false" />
+      <option name="pid" />
+      <option name="selectedOptions">
+        <set />
+      </option>
+      <method v="2" />
+    </configuration>
+    <configuration name="Attach to Unity Editor" type="UNITY_DEBUG_RUN_CONFIGURATION" factoryName="Unity Debug" show_console_on_std_err="false" show_console_on_std_out="false" port="50000" address="localhost">
+      <option name="allowRunningInParallel" value="false" />
+      <option name="listenPortForConnections" value="false" />
+      <option name="pid" />
+      <option name="selectedOptions">
+        <set />
+      </option>
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="3c8bad2e-2741-47be-8633-86c62b1a27af" name="Default Changelist" comment="" />
+      <created>1674213145879</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1674213145879</updated>
+      <workItem from="1674213152681" duration="22000" />
+      <workItem from="1674213667871" duration="1912000" />
+      <workItem from="1674222100574" duration="11741000" />
+      <workItem from="1674283178922" duration="7406000" />
+      <workItem from="1674309033051" duration="5525000" />
+      <workItem from="1674462439773" duration="3999000" />
+      <workItem from="1674476621095" duration="9455000" />
+      <workItem from="1674492304777" duration="6759000" />
+      <workItem from="1674591078041" duration="788000" />
+      <workItem from="1674592578570" duration="411000" />
+      <workItem from="1674631063962" duration="5590000" />
+      <workItem from="1674753679153" duration="3032000" />
+    </task>
+    <servers />
+  </component>
+  <component name="UnityProjectConfiguration" hasMinimizedUI="true" />
+  <component name="UnityUnitTestConfiguration" currentTestLauncher="EditMode" />
+  <component name="VcsManagerConfiguration">
+    <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="807" y="461" width="727" height="318" key="#C#" timestamp="1674498236872">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="807" y="461" width="727" height="318" key="#C#/0.0.1920.1040@0.0.1920.1040" timestamp="1674498236872" />
+    <state x="461" y="165" key="SettingsEditor" timestamp="1674498222596">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="461" y="165" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1674498222596" />
+    <state x="623" y="225" width="672" height="678" key="search.everywhere.popup" timestamp="1674637261741">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="623" y="225" width="672" height="678" key="search.everywhere.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1674637261741" />
+  </component>
+</project>

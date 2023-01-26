@@ -1,0 +1,34 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f56d5893dde5460439bb8b871964a788, type: 3}
+  m_Name: DiamondChest
+  m_EditorClassIdentifier: 
+  _items:
+  - {fileID: 11400000, guid: e7b3c8c94a482ef4a8847c04861813cf, type: 2}
+  - {fileID: 11400000, guid: a1f4bd2adb4499d4f91266d999cf4ae0, type: 2}
+  - {fileID: 11400000, guid: 31126a2b6d7c18746a503606bb8f6dba, type: 2}
+  - {fileID: 11400000, guid: b9106ebf5b3fd9143aed6341b4f2c036, type: 2}
+  - {fileID: 11400000, guid: e52f38a94df6c3648ac2bda85c928f19, type: 2}
+  - {fileID: 11400000, guid: e504b7aa6a0d7754a9e6db289c40f6a3, type: 2}
+  - {fileID: 11400000, guid: 437e5c5dc5c715c48b55d35bf656b390, type: 2}
+  - {fileID: 11400000, guid: 49d5474eb9d30ca419e58e39257b5d24, type: 2}
+  - {fileID: 11400000, guid: a6d6d96ce8fdc8641b9c5515047bc5ba, type: 2}
+  - {fileID: 11400000, guid: 83d039ec00a63624d86b9d9f4b983d13, type: 2}
+  - {fileID: 11400000, guid: c2d8472bc6b6cdf438762fa6e87cdf15, type: 2}
+  - {fileID: 11400000, guid: 1f3aa0106b9441644b22bec48aad6198, type: 2}
+  - {fileID: 11400000, guid: eb7a82845fa2d844ba73e95ff5536b32, type: 2}
+  - {fileID: 11400000, guid: 3ccf2366f1287ea4faf641d5485acdad, type: 2}
+  - {fileID: 11400000, guid: 4641a2ae169bcea48931743303e0741d, type: 2}
+  - {fileID: 11400000, guid: f6dbd37cfbad1844faece7a359b695e7, type: 2}
+  _sprite: {fileID: 21300000, guid: 5a4a97dcec7140940952e07b56c456bd, type: 3}
+  _chestName: "\u0410\u043B\u043C\u0430\u0437\u043D\u044B\u0439 \u0441\u0443\u043D\u0434\u0443\u043A"
+  _cost: 2000

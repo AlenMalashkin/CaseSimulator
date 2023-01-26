@@ -1,0 +1,34 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f56d5893dde5460439bb8b871964a788, type: 3}
+  m_Name: IronChest
+  m_EditorClassIdentifier: 
+  _items:
+  - {fileID: 11400000, guid: 27892baaf808e7447a2354015947ae38, type: 2}
+  - {fileID: 11400000, guid: 07984c9d6b9caa54d84065338429e407, type: 2}
+  - {fileID: 11400000, guid: 4ef23c8fac4736745ae40c56e44a7666, type: 2}
+  - {fileID: 11400000, guid: 627b76a9f81129c49b638a962a85697d, type: 2}
+  - {fileID: 11400000, guid: 8518a05b789858641a01bd1345fa0b0c, type: 2}
+  - {fileID: 11400000, guid: e7b3c8c94a482ef4a8847c04861813cf, type: 2}
+  - {fileID: 11400000, guid: a1f4bd2adb4499d4f91266d999cf4ae0, type: 2}
+  - {fileID: 11400000, guid: 31126a2b6d7c18746a503606bb8f6dba, type: 2}
+  - {fileID: 11400000, guid: b9106ebf5b3fd9143aed6341b4f2c036, type: 2}
+  - {fileID: 11400000, guid: e52f38a94df6c3648ac2bda85c928f19, type: 2}
+  - {fileID: 11400000, guid: e504b7aa6a0d7754a9e6db289c40f6a3, type: 2}
+  - {fileID: 11400000, guid: 437e5c5dc5c715c48b55d35bf656b390, type: 2}
+  - {fileID: 11400000, guid: 49d5474eb9d30ca419e58e39257b5d24, type: 2}
+  - {fileID: 11400000, guid: c2d8472bc6b6cdf438762fa6e87cdf15, type: 2}
+  - {fileID: 11400000, guid: a6d6d96ce8fdc8641b9c5515047bc5ba, type: 2}
+  - {fileID: 11400000, guid: 4641a2ae169bcea48931743303e0741d, type: 2}
+  _sprite: {fileID: 21300000, guid: ae7c6a0a53e2f944bbac8ba19280fdfb, type: 3}
+  _chestName: "\u0416\u0435\u043B\u0435\u0437\u043D\u044B\u0439 \u0441\u0443\u043D\u0434\u0443\u043A"
+  _cost: 300
